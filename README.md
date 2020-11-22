@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-
+*I am David, student and working with automation*
+<br />
+*I Love Front End programming*
+<br />
+*I love to prototype screens using figma and turn it into code*
+<br />
+*I love play league of legends, running and bicycle*
+<br />
+                                                                                                                                
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Dawi-Formidavel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-messias-959900120/)
   
+
   *Languages and Tools:** 
 
 <!-- Your github readme stats
